@@ -32,7 +32,7 @@ This is the service for board game booking in Innopolis University.
    uv run -m src.api --reload
    ```
    > Follow the provided instructions (if needed).
-4. Open in the browser: http://localhost:8000
+4. Open in the browser: http://localhost:8016
    > The api will be reloaded when you edit the code
 
 > [!IMPORTANT]

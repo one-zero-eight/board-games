@@ -11,7 +11,7 @@ services:
       db:
         condition: service_healthy
     ports:
-      - "8000:8000"
+      - "8016:8000"
     volumes:
       - "./settings.yaml:/app/settings.yaml:ro" # Read-only settings file
   
